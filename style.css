@@ -1,0 +1,31 @@
+body {
+    background-color: white;
+    color: #262626;
+}
+
+h2 {
+    color: #2F29FF;
+}
+
+a {
+    color: #FF2E57;
+}
+
+a:hover {
+    color: #CEFA05;
+}
+
+
+@font-face {
+  font-family: 'Radio Grotesk';
+  src:  url('https://cdn.glitch.com/813760be-d498-4164-b2b2-f715704e9635%2FRadioGrotesk-Regular.otf?v=1632017386545') format('woff2'),
+        url('https://cdn.glitch.com/813760be-d498-4164-b2b2-f715704e9635%2FRadioGrotesk-Regular.otf?v=1632017386545') format('woff');
+}
+
+body {
+  font-family: 'Radio Grotesk', Fallback, sans-serif;
+  font-size: 1.2em;
+  background-image: url("data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' height='64' width='64'%3E %3Cg transform='translate(16.5%2C32.5)'%3E %3Cline id='line' x1='0' y1='0' x2='32' y2='0' stroke='%23FF2E57' stroke-linecap='round' stoke-width='1'%3E %3CanimateTransform attributeName='transform' type='rotate' dur='15s' values='0 16 0%3B360 16 0%3B' repeatCount='indefinite'/%3E %3C!-- Return by adding '%3B0 16 0%3B'--%3E %3C/line%3E %3C/g%3E %3C/svg%3E");
+  /* SVG encoded with https://cdpn.io/rrOZQQ, svg from https://codepen.io/elliottmunoz/pen/ACpvy */
+}
+
