@@ -17,6 +17,7 @@ a:hover {
 
 
 @font-face {
+  font-display: swap;
   font-family: 'Radio Grotesk';
   src:  url('https://cdn.glitch.com/813760be-d498-4164-b2b2-f715704e9635%2FRadioGrotesk-Regular.otf?v=1632017386545') format('woff2'),
         url('https://cdn.glitch.com/813760be-d498-4164-b2b2-f715704e9635%2FRadioGrotesk-Regular.otf?v=1632017386545') format('woff');
