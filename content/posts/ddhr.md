@@ -21,7 +21,7 @@ While the UDHR is and has been used in liberatory movements and to work towards 
 
 ‘DDHR’ is a text data project to enhance awareness of the unevenness of human rights in specific contexts, and their entanglements with corporations and technologies through time.|
 
-<a href="https://ddhr.cargo.site/" target="_blank">EXPLORE THE DDHR DEMO →</a>
+(dead link - please contact if interested) <a href="https://ddhr.cargo.site/" target="_blank">EXPLORE THE DDHR DEMO →</a>
 
 
 <h3>project process</h2>
